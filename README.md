@@ -65,7 +65,7 @@ Cyber Threat Intelligence
 <p><b><a id="currentMaintainers">Current Maintainers of this TC Open Repository</a></b></p>
 
 <ul>
-<li><a href="mailto:athomson@lookingglasscyber.com">Allan Thomson</a>*; GitHub ID: <a href="https://github.com/allant0/">https://github.com/allant0/</a>; WWW: <a href="https://www.lookingglasscyber.com/">LookingGlass Cyber Solutions</a> [*pending]</li>
+<li><a href="mailto:athomson@lookingglasscyber.com">Allan Thomson</a>; GitHub ID: <a href="https://github.com/allant0/">https://github.com/allant0/</a>; WWW: <a href="https://www.lookingglasscyber.com/">LookingGlass Cyber Solutions</a></li>
 <li><a href="mailto:Jason.Keirstead@ca.ibm.com">Jason Keirstead</a>; GitHub ID: <a href="https://github.com/JasonKeirstead/">https://github.com/JasonKeirstead/</a>; WWW: <a href="https://www.ibm.com/">IBM Security</a></li>
 </ul>
 
